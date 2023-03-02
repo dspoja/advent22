@@ -6,6 +6,7 @@ from day4 import advent4
 from day5 import advent5
 from day6 import advent6
 from day7 import advent7
+from day8 import advent8
 
 
 def run_advent() -> None:
@@ -16,6 +17,7 @@ def run_advent() -> None:
     advent5.day5()
     advent6.day6()
     advent7.day7()
+    advent8.day8()
 
 
 if __name__ == '__main__':
