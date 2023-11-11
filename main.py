@@ -9,6 +9,7 @@ from day7 import advent7
 from day8 import advent8
 from day9 import advent9
 from day10 import advent10
+from day11 import advent11
 
 
 def run_advent() -> None:
@@ -22,6 +23,7 @@ def run_advent() -> None:
     advent8.day8()
     advent9.day9()
     advent10.day10()
+    advent11.day11()
 
 
 
